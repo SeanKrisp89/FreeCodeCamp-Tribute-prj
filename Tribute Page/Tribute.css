@@ -1,0 +1,56 @@
+#main{
+    background: #0B162A;
+    border: 5px solid rgb(212, 60, 5);
+    font-family: "Josefin Sans";
+}
+
+.orange-text{
+    color: rgb(212, 60, 5)
+}
+
+.center-text{
+    text-align: center;
+}
+
+.rounded{
+    border-radius: 15px;
+}
+
+#img-div{
+    width: 100%;
+}
+
+#image{
+    display: block;
+    max-width:50%;
+    margin: auto;
+    margin-top: 10px;
+    height: auto;
+}
+
+#img-caption{
+    text-align: center;
+    color: rgb(212, 60, 5)
+}
+
+#tribute-info{
+    color: rgb(212, 60, 5);
+    width: 100%;
+}
+
+ul{
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: left;
+    display: block;
+    list-style-type: disc;
+    font-size: 1.2em; 
+}
+
+#tribute-link{
+    text-align: center;
+}
+
+a:hover{
+    color: blue;
+}
